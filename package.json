@@ -1,0 +1,12 @@
+{
+	"author": "Blue Mountains",
+	"version": "1.0",
+	"client_scripts": [
+		"cl_ui.lua"
+	],
+	"files": [
+		"sprite.svg",
+		"svgExtHtml.html",
+		"svgInHtml.html"
+	]
+}
