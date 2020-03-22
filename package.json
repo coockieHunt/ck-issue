@@ -1,5 +1,5 @@
 {
-	"author": "Blue Mountains",
+	"author": "",
 	"version": "1.0",
 	"client_scripts": [
 		"cl_ui.lua"
